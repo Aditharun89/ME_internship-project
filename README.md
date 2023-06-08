@@ -4,3 +4,8 @@ For example type Egg in the Search Box
 
 ![image](1.png)
 
+![image](2.png)
+
+![image](3.png)
+
+
